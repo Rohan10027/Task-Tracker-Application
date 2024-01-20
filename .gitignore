@@ -1,0 +1,14 @@
+#node
+node_modules
+npm-debug.log
+#build
+dist
+build
+#gradle
+.gradle
+#intellij
+.idea
+*.iml
+*.ipr
+*.iws
+*.log
